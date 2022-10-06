@@ -13,6 +13,13 @@ Acompanhe meus projetos: https://bit.ly/portfoliogabriel1
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabriellfelipe7&bg_color=141414&color=e137d6&line=7e4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=gabriellfelipe7&theme=buefy&locale=pt-br&background=141414&dates=6D6666&border=000000&sideNums=E73185&currStreakNum=E73185&currStreakLabel=E73185&sideLabels=6B0C94&ring=6b0c94&fire=E73185"/>
+  </a>
+
+</p>
+
 ##
   
 ### Tecnologias:
@@ -22,16 +29,15 @@ Acompanhe meus projetos: https://bit.ly/portfoliogabriel1
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-##
+
 
 ### Contato:
 <div> 
   <a href = "gabriellfelipe1718@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielfelipeoli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+##
+  
 </div>
  
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabriellfelipe7}/count.svg" /></p> 
-<br></div>
+
