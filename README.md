@@ -1,9 +1,16 @@
-## Oi, sou o Gabriel Felipe 👋
+## Oi, sou o Gabriel Felipe! 👋
 
-- 🔭 Hoje trabalho com CRM Analytics
-- 🌱 Estudando Data Analytics
+- 🔭 Hoje trabalho na área de CRM Analytics
+- 🌱 Estudando Estatítica e Ciência de Dados
 - 🤔 Estou em busca de ajuda em tópicos de Data Science e Data Analytics
- 
+
+Acompanhe meus projetos: https://bit.ly/portfoliogabriel1
+
+
+![Captura de tela 2022-10-06 104013](https://user-images.githubusercontent.com/73200069/194328542-67bc8efa-1905-40f5-a342-6236635c39a4.png)
+
+
+##
 
 <div align="center">
   <a href="https://github.com/gabriellfelipe7">
