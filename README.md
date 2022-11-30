@@ -3,7 +3,7 @@
 - 💻 Estagiário na área de CRM Analytics;
 - 📊 Estudante de Estatística e Ciência de Dados no ICMC/USP (Instituto de Ciências Matemáticas e de Computação);
 - 🚀 Em busca de ajuda em tópicos de Data Science e Data Analytics.
-- Meu LinkedIn: https://www.linkedin.com/in/gabrielfelipeoli/
+
 
 Acompanhe meus projetos: https://bit.ly/portfoliogabriel1
 
