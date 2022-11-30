@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=701EEE&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Felipe.+;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 - 💻 Estagiário na área de CRM Analytics;
-- 📊 Estudo Estatística e Ciência de Dados no ICMC/USP (Instituto de Ciências Matemáticas e de Computação);
+- 📊 Estudante de Estatística e Ciência de Dados no ICMC/USP (Instituto de Ciências Matemáticas e de Computação);
 - 🚀 Em busca de ajuda em tópicos de Data Science e Data Analytics.
 
 Acompanhe meus projetos: https://bit.ly/portfoliogabriel1
