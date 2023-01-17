@@ -12,7 +12,7 @@ Acompanhe meus projetos: https://bit.ly/portfoliogabriel1
 
 ##
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=gabriellfelipe7&bg_color=141414&color=e137d6&line=7e4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=gabriellfelipe7&bg_color=141414&color=e137d6&line=7e4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
