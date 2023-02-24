@@ -5,7 +5,7 @@
 - 🚀 Em busca de ajuda em tópicos de Data Science e Data Analytics.
 
 
-Acompanhe meus projetos: https://bit.ly/portfoliogabriel1
+Acompanhe meus projetos: https://bit.ly/3xJT6VU
 
 
 ![Captura de tela 2022-10-06 104013](https://user-images.githubusercontent.com/73200069/194328542-67bc8efa-1905-40f5-a342-6236635c39a4.png)
