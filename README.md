@@ -8,8 +8,6 @@
 Acompanhe meus projetos: https://bit.ly/3xJT6VU
 
 
-![Captura de tela 2022-10-06 104013](https://user-images.githubusercontent.com/73200069/194328542-67bc8efa-1905-40f5-a342-6236635c39a4.png)
-
 ##
 
 [![](https://activity-graph.herokuapp.com/graph?username=gabriellfelipe7&bg_color=141414&color=e137d6&line=7e4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
