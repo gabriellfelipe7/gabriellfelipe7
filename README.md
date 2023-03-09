@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a0121d&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Felipe.+;Seja+Bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c11523&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Felipe.+;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 - 💻 Estagiário na área de CRM Analytics;
 - 📊 Estudante de Estatística e Ciência de Dados no ICMC/USP (Instituto de Ciências Matemáticas e de Computação);
@@ -15,7 +15,7 @@ Acompanhe meus projetos: https://bit.ly/3xJT6VU
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=gabriellfelipe7&theme=buefy&locale=pt-br&background=141414&dates=6D6666&border=000000&sideNums=E73185&currStreakNum=E73185&currStreakLabel=E73185&sideLabels=6B0C94&ring=6b0c94&fire=E73185"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=gabriellfelipe7&theme=buefy&locale=pt-br&background=141414&dates=6D6666&border=000000&sideNums=E73185&currStreakNum=E73185&currStreakLabel=E73185&sideLabels=6B0C94&ring=c11523&fire=c11523"/>
   </a>
 
 </p>
