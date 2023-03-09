@@ -15,7 +15,7 @@ Acompanhe meus projetos: https://bit.ly/3xJT6VU
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=gabriellfelipe7&theme=buefy&locale=pt-br&background=141414&dates=6D6666&border=000000&sideNums=E73185&currStreakNum=E73185&currStreakLabel=E73185&sideLabels=6B0C94&ring=c11523&fire=c11523"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=gabriellfelipe7&theme=buefy&locale=pt-br&background=141414&dates=6D6666&border=000000&sideNums=E73185&currStreakNum=c11523&currStreakLabel=c11523&sideLabels=6B0C94&ring=c11523&fire=c11523"/>
   </a>
 
 </p>
