@@ -7,6 +7,7 @@
 
 Acompanhe meus projetos: https://bit.ly/3xJT6VU
 
+<img src="C:\Users\60003827\OneDrive - Lojas Riachuelo S.A\Área de Trabalho\Pessoal\Portfólio\0. Página\Screenshot_1.png">
 
 ##
 
