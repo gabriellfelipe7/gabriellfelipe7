@@ -9,16 +9,6 @@ Acompanhe meus projetos: https://bit.ly/3xJT6VU
 
 <img src="Screenshot_1.png">
 
-##
-
-[![](https://activity-graph.herokuapp.com/graph?username=gabriellfelipe7&bg_color=141414&color=e137d6&line=7e4c9e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com?user=gabriellfelipe7&theme=buefy&locale=pt-br&background=141414&dates=6D6666&border=000000&sideNums=fbe5e5&currStreakNum=fbe5e5&currStreakLabel=c11523&sideLabels=c11523&ring=c11523&fire=c11523"/>
-  </a>
-
-</p>
 
 ##
   
