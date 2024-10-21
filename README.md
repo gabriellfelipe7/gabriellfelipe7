@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c11523&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Gabriel+Felipe.+;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
-- 💻 Analista de Finanças Pleno;
+- 💻 Analista de Dados Pleno;
 - 📊 Estudante de Estatística e Ciência de Dados no ICMC/USP (Instituto de Ciências Matemáticas e de Computação);
 - 🚀 Em busca de ajuda em tópicos de Data Science e Data Analytics.
 
