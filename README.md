@@ -5,7 +5,6 @@
 - 🚀  Looking for support on topics related to Data Science and Data Analytics
 
 
-Check out my projects: https://bit.ly/3xJT6VU
 
 
 
