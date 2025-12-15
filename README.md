@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c11523&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c11523&size=40&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gabriel+Machado.+;Welcome!)](https://git.io/typing-svg)
 
 - 💻 Mid-Level Data Scientist - Finacial Market;
@@ -28,5 +30,5 @@
 E-mail: gabriellfelipe1718@gmail.com
 
 
- 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c11523&height=120&section=footer"/>
 
