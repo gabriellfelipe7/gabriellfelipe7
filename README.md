@@ -4,7 +4,7 @@
 
 - 💻 Mid-Level Data Scientist - Finacial Market;
 - 📊 Student of Statistics and Data Science at ICMC/USP (Institute of Mathematical and Computer Sciences);
-- 🚀  Looking for support on topics related to Data Science and Data Analytics
+- 🚀  Looking for support on topics related to Data Science and Data Analytics.
 
 
 
